@@ -1,6 +1,10 @@
 # 42_ft_printf
 Creating my version of stdlib printf function
 
+Uses [libft](https://github.com/neodymeZ/42_libft).
+
+*NB: Code is dense due to 42 styling rules (25 lines per function, 5 functions per file, etc).*
+
 ## Usage
 ```
 git clone <repo> <dir>
